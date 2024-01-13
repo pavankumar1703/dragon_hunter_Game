@@ -1,12 +1,11 @@
-body {
-
+.game{
+    width: 100%;
+  height: 700px;
   
-  background-image: url("https://imgs.search.brave.com/NXUDEuR2iRbrNRG8MpOilDTxLlL6pXJF-DOPiYLCpG0/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTc4/MTIyODU1L3Bob3Rv/L2FuLWlsbHVzdHJh/dGlvbi1vZi1hLXJl/ZC1kcmFnb24taW4t/ZnJvbnQtb2YtYS1r/bmlnaHQuanBnP3M9/NjEyeDYxMiZ3PTAm/az0yMCZjPXFxRDVL/MjB6eTRIMGs4TFhq/eEo0QlVNZTZFWU1Q/SWt2SFNReENOSEVs/b2s9");
-  
+  background-image: url("https://imgs.search.brave.com/vOR4W4PGHS1SwSfkryQd4FbBqoV5uRknDEmOZs-Ab6Q/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTAz/MDMxODc3MC9waG90/by90aGUtYm95LWFn/YWluc3QtdGhlLWRy/YWdvbi5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9OVRDWXdL/NHdvZDFteFdYblRB/eE1jNVh1MkgteEhS/LUMyMWZJM1pRenQw/RT0");
   background-size:cover;
   background-repeat: no-repeat;
   background-position: center;
-
 }
 
 #text {
